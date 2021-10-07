@@ -15,10 +15,10 @@ This project is [MIT](https://github.com/MiddayClouds/venter/blob/master/LICENSE
 
 ## 👤 Authors
 
-**Midday (Biagio Santoro, Ben Mills)**
+**Midday (Biagio Santoro, Ben Mills, Mark Noyes)**
 
 * Website: [@Biagio](https://biagios.github.io) | [@Ben](https://benmills-co.github.io)
-* Twitter: [@Biagio](https://twitter.com/biagiosantori) | [@Ben](https://twitter.com/BenMillsco)
+* Twitter: [@Biagio](https://twitter.com/biagiosantori) | [@Ben](https://twitter.com/BenMillsco) | [@Mark](https://twitter.com/Sad_Kris_)
 * Github: [@Midday](https://github.com/MiddayClouds) | [@Biagio](https://github.com/biagios) | [@Ben](https://github.com/benmills-co)
 
 <h6 align="center">
