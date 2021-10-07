@@ -19,7 +19,7 @@ This project is [MIT](https://github.com/MiddayClouds/venter/blob/master/LICENSE
 
 * Website: [@Biagio](https://biagios.github.io) | [@Ben](https://benmills-co.github.io)
 * Twitter: [@Biagio](https://twitter.com/biagiosantori) | [@Ben](https://twitter.com/BenMillsco) | [@Mark](https://twitter.com/Sad_Kris_)
-* Github: [@Midday](https://github.com/MiddayClouds) | [@Biagio](https://github.com/biagios) | [@Ben](https://github.com/benmills-co)
+* Github: [@Midday](https://github.com/MiddayClouds) | [@Biagio](https://github.com/biagios) | [@Ben](https://github.com/benmills-co) | [@Mark](https://github.com/sadkris)
 
 <h6 align="center">
 Copyright © 2020 <a href="https://github.com/MiddayClouds">Midday</a> | <a href="https://app.fossa.com/reports/d2cfbea5-30d0-4e12-bdb8-cac19db33d29">Licenses</a>

@@ -1,6 +1,6 @@
 const config = {
   // Bot Owner, level 10 by default. A User ID. Should never be anything else than the bot owner's ID.
-  "ownerID": "",
+  "ownerID": "548181892940431410",
 
   // Bot Admins, level 9 by default. Array of user ID strings.
   "admins": [],
@@ -9,7 +9,7 @@ const config = {
   "support": [],
 
   // Your Bot's Token.
-  "token": "",
+  "token": "ODk1ODEzNjQwNDEyODcyNzE2.YV-Bdw.ETtuvoHAKhu_CxCc7yYEPChxNOQ",
 
   // Vents Hook details.
   "venterhook":["",""],
